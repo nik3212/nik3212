@@ -15,7 +15,7 @@ I'm a software engineer from Russia with experince in Swift and Objective-C.
   <a href="https://twitter.com/nik_3212"><img src="https://user-images.githubusercontent.com/17319991/88188406-7a4c1080-cc40-11ea-9cfb-ae8a424c8996.png"></a> 
   <a href="http://linkedin.com/in/nikita-vasilev-7526a8149"><img src="https://user-images.githubusercontent.com/17319991/88189077-51784b00-cc41-11ea-8c85-6fadb3ed2c0c.png"></a> 
   <a href="https://t.me/nik3212"><img src="https://user-images.githubusercontent.com/17319991/88189229-808ebc80-cc41-11ea-8b9c-98077450af96.png"></a> 
-  <a href="mailto://nv3212@gmail.com"><img src="https://user-images.githubusercontent.com/17319991/88189363-a6b45c80-cc41-11ea-8117-ead3e97e7d79.png"></a> 
+  <a href="mailto:nv3212@gmail.com"><img src="https://user-images.githubusercontent.com/17319991/88189363-a6b45c80-cc41-11ea-8117-ead3e97e7d79.png"></a> 
   <br>
 </p>
 
