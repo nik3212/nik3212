@@ -1,4 +1,4 @@
-### Hey <img src="https://user-images.githubusercontent.com/17319991/88180824-9b0f6880-cc36-11ea-981c-94cd01dd544a.gif" width="30px">, I'm Nick
+### Hey 🖐, I'm Nick
 
 I'm a software engineer from Russia with experince in Swift and Objective-C.
 
