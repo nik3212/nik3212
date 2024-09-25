@@ -3,7 +3,7 @@ Hi 👋
 My name is Nick (short for Nikita). I'm a software engineer with experince in Swift and Objective-C.
 
 - Open Source Projects: [Space Code](https://github.com/space-code)
-- Blog: [medium.com](https://nsvasilev.medium.com/)
+- Blog: [nsvasilev.com](https://nsvasilev.com/)
 
 **Contacts**
 
